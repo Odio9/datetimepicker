@@ -87,6 +87,7 @@
     "semantic-release": "^18.0.1"
   },
   "dependencies": {
+    "firebase": "^9.8.3",
     "invariant": "^2.2.4"
   },
   "detox": {
